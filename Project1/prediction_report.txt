@@ -1,0 +1,48 @@
+
+BOSTON HOUSE PRICE PREDICTION - FINAL REPORT
+============================================
+
+DATASET INFORMATION
+-------------------
+Total Samples: 506
+Features: 13
+Target Variable: MEDV (Median House Price in $1000s)
+
+DATA SPLIT
+----------
+Training Set: 404 samples (80%)
+Testing Set: 102 samples (20%)
+
+MODEL COMPARISON
+----------------
+            Model  Train RMSE  Test RMSE  Train MAE  Test MAE  Train R²  Test R²
+Linear Regression    4.652033   4.928602   3.314772  3.189092  0.750886 0.668759
+ Ridge Regression    4.652177   4.930812   3.308708  3.185724  0.750870 0.668462
+ Lasso Regression    5.290949   5.251447   3.682759  3.473770  0.677759 0.623943
+       ElasticNet    5.433075   5.325284   3.780608  3.431002  0.660215 0.613294
+    Random Forest    1.406320   2.812960   0.902926  2.041078  0.977234 0.892100
+Gradient Boosting    1.317140   2.491622   1.043816  1.912183  0.980030 0.915344
+
+BEST MODEL
+----------
+Model: Gradient Boosting
+
+Performance Metrics:
+- Test R² Score: 0.9153
+- Test RMSE: 2.4916
+- Test MAE: 1.9122
+
+CONCLUSION
+----------
+The Gradient Boosting model performed best with an R² score of 0.9153,
+indicating that approximately 91.53% of the variance 
+in house prices can be explained by the selected features.
+
+Generated visualizations:
+1. correlation_heatmap.png - Feature correlations
+2. price_distribution.png - Distribution of house prices
+3. predictions_comparison.png - Actual vs Predicted prices
+4. feature_importance.png - Most important features (if applicable)
+
+============================================
+Report generated successfully!
