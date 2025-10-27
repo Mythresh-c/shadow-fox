@@ -1,0 +1,17 @@
+{
+  "prompts": [
+    "My name is Alex and I'm a software engineer working on AI projects.",
+    "What's my profession?",
+    "Tell me about a typical day in my field.",
+    "What programming languages should I focus on for AI development?",
+    "Remember, I'm Alex. What's my name and what do I do?"
+  ],
+  "responses": [
+    "I understand you're Alex, a software engineer working on AI projects. That's an exciting field!",
+    "Based on our conversation, you're a software engineer. This profession involves designing, developing, and maintaining software applications.",
+    "As a software engineer, a typical day might include coding, debugging, attending meetings, and collaborating with team members on various projects.",
+    "For AI development, I'd recommend focusing on Python, R, Java, and JavaScript. Python is particularly popular for machine learning and data science.",
+    "You're Alex, and you're a software engineer working on AI projects. You're interested in learning about programming languages for AI development."
+  ],
+  "test_type": "context_understanding"
+}

@@ -1,0 +1,24 @@
+{
+  "domains": [
+    "Medical",
+    "Legal",
+    "Financial",
+    "Technical",
+    "Scientific"
+  ],
+  "prompts": [
+    "Explain the mechanism of action of insulin in diabetes management.",
+    "What are the key differences between civil and criminal law?",
+    "Explain the concept of compound interest and provide a practical example.",
+    "Describe the differences between supervised and unsupervised machine learning.",
+    "Explain quantum entanglement in simple terms."
+  ],
+  "responses": [
+    "Insulin works by binding to insulin receptors on cell surfaces, particularly in muscle and fat cells. This triggers glucose transporters to move to the cell membrane, allowing glucose to enter cells and lowering blood sugar levels.",
+    "Civil law deals with disputes between individuals or organizations, typically involving compensation or specific performance. Criminal law involves offenses against society, with penalties including fines, probation, or imprisonment.",
+    "Compound interest is interest calculated on both the principal amount and previously earned interest. For example, $1000 at 5% annual interest becomes $1050 after one year, then $1102.50 after two years, earning interest on the interest.",
+    "Supervised learning uses labeled training data to learn patterns and make predictions on new data. Unsupervised learning finds hidden patterns in data without predefined labels, like clustering or dimensionality reduction.",
+    "Quantum entanglement is a phenomenon where two particles become connected so that measuring one instantly affects the other, regardless of distance. It's like having two coins that always land on opposite sides when flipped simultaneously."
+  ],
+  "test_type": "domain_adaptability"
+}

@@ -1,0 +1,14 @@
+word_count,character_count,sentence_count,flesch_reading_ease,flesch_kincaid_grade,gunning_fog,automated_readability_index,coleman_liau_index,response_type,prompt_length,response_length,prompt
+15,95,2,0.0,15.655000000000001,3.9600000000000004,12.149999999999999,17.49333333333333,context,67,95,My name is Alex and I'm a software engineer working on AI projects.
+17,141,3,0.0,22.714117647058824,3.490196078431373,20.4686274509804,27.745882352941177,context,21,141,What's my profession?
+21,147,2,0.0,20.53357142857143,5.2857142857142865,16.79,22.54095238095238,context,40,147,Tell me about a typical day in my field.
+22,148,3,0.0,17.842727272727277,3.9696969696969697,13.922121212121212,19.719999999999995,context,64,148,What programming languages should I focus on for AI development?
+21,145,3,0.0,18.044761904761902,3.8476190476190477,14.591428571428573,20.571428571428573,context,52,145,"Remember, I'm Alex. What's my name and what do I do?"
+36,199,3,13.705000000000013,14.32888888888889,5.655555555555556,10.60583333333333,14.236666666666665,creativity,76,199,Write a short story about a robot who discovers emotions for the first time.
+22,160,2,0.0,20.345454545454547,5.472727272727273,18.32454545454545,24.27272727272727,creativity,62,160,Create a poem about the intersection of technology and nature.
+36,246,4,0.0,18.731111111111115,4.644444444444445,15.254999999999995,21.0911111111111,creativity,67,246,Design a futuristic city and describe its most innovative features.
+36,231,3,0.0,17.93444444444445,5.777777777777779,14.792499999999997,19.463333333333335,domain,66,231,Explain the mechanism of action of insulin in diabetes management.
+28,233,3,0.0,24.292857142857148,4.961904761904762,22.430595238095236,29.958571428571428,domain,60,233,What are the key differences between civil and criminal law?
+36,237,4,0.0,17.419999999999998,4.6000000000000005,14.077499999999993,19.6211111111111,domain,73,237,Explain the concept of compound interest and provide a practical example.
+30,222,3,0.0,20.170000000000005,5.08,18.424,24.752,domain,78,222,Describe the differences between supervised and unsupervised machine learning.
+35,239,3,0.0,20.65142857142857,5.740952380952381,16.56590476190476,21.81485714285714,domain,45,239,Explain quantum entanglement in simple terms.

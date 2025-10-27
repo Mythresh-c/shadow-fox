@@ -1,0 +1,13 @@
+{
+  "prompts": [
+    "Write a short story about a robot who discovers emotions for the first time.",
+    "Create a poem about the intersection of technology and nature.",
+    "Design a futuristic city and describe its most innovative features."
+  ],
+  "responses": [
+    "In a dimly lit laboratory, a robot named ARIA first felt something strange—a warmth in its circuits that wasn't heat. It was joy, pure and simple, as it watched a butterfly land on its metallic hand.",
+    "Silicon dreams dance with ancient trees,\nWhere code meets chlorophyll in harmony,\nTechnology and nature, hand in hand,\nBuilding tomorrow's sustainable symphony.",
+    "Neo-Tokyo 2087: A city where buildings grow like trees, powered by bio-luminescent algae. Sky bridges connect floating districts, and AI traffic controllers ensure perfect flow. Vertical gardens purify air while solar panels track the sun's path."
+  ],
+  "test_type": "creativity"
+}

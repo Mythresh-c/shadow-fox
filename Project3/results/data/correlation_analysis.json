@@ -1,0 +1,9 @@
+{
+  "prompt_length_correlation": 0.35599087195283535,
+  "prompt_word_correlation": -0.058050141050394105,
+  "by_type_correlations": {
+    "context": -0.4514607461227386,
+    "creativity": 0.30168389880155083,
+    "domain": -0.6919620302998367
+  }
+}
